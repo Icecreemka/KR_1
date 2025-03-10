@@ -13,7 +13,7 @@
    ```bash
    gcc src/main.c -o program
 4. Запустите программу:
-   ./program
+   gcc ./program
 
 ## Автор
 
