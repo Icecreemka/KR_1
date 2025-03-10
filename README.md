@@ -13,6 +13,7 @@
    ```bash
    gcc src/main.c -o program
 4. Запустите программу с помощью команды:
+   ```bash
    ./program
 
 ## Автор
